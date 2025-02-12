@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Platform
+  - Bullet
+  - Sword
+  - SecretPath
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3252159745
+    locked: 0
+  - name: Player
+    uniqueID: 4257991277
+    locked: 0
+  - name: Enemy
+    uniqueID: 2892368559
+    locked: 0
+  - name: Ground
+    uniqueID: 870655841
+    locked: 0
+  - name: UI
+    uniqueID: 1877330063
+    locked: 0
